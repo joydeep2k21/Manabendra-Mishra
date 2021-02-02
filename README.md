@@ -1,3 +1,3 @@
 Welcome to Math Coaching
- by Manabendra Mishra
+ by **Manabendra Mishra**
 ....
