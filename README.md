@@ -10,3 +10,8 @@ My facebook profile is [profile](https://www.facebook.com/manabendra.mishra.733)
 
 [Trick 3](https://user-images.githubusercontent.com/78428741/106628169-87f33300-659f-11eb-97f7-122d1dfa7aa0.jpg)
 
+<style>
+body {
+  background-image: url('https://user-images.githubusercontent.com/78428741/106702616-a80e0b00-660e-11eb-90d1-6972aa5c0d53.jpg');
+}
+</style>
