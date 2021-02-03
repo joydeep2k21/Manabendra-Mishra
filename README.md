@@ -12,6 +12,6 @@ My facebook profile is [profile](https://www.facebook.com/manabendra.mishra.733)
 
 <style>
 body {
-  background-image: url('https://user-images.githubusercontent.com/78428741/106703178-bc063c80-660f-11eb-88ba-0f82d7d73ac1.jpg');
+  background-image: url('https://user-images.githubusercontent.com/78428741/106703494-5797ad00-6610-11eb-8a58-d5d6385a8dcc.jpg');
 }
 </style>
