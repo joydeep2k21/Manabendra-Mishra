@@ -1,0 +1,1 @@
+With the and operator, an expression evaluates to True only if both operands are True (in this case, the operands are expressions that evaluate to a Boolean value). If either one of them evaluates to False, the entire expression evaluates to False.
