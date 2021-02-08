@@ -1,9 +1,9 @@
 Syllabus :
 Unit-I: Sets and Functions
 
-**Chapter 1: Sets**
-***Sets and their representations***
+***Chapter 1: Sets***
 <ol>
+<li>Sets and their representations</li>
 <li>Empty set </li>
 <li>Finite and Infinite sets </li>
 <li>Equal sets. Subsets </li>
