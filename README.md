@@ -6,8 +6,11 @@ My facebook profile is [profile](https://www.facebook.com/manabendra.mishra.733)
 - [x] Concepts
 - [x] Practice
 - [x] Exam                             
-                               
- [Trick 1](https://user-images.githubusercontent.com/78428741/106627865-3cd92000-659f-11eb-91d5-55911ce1755b.jpg)
+
+<a href="username.github.io/folder/document.pdf" target="_blank">PDF.</a>
+<a href="https://github.com/joydeep2k21/Manabendra-Mishra/blob/main/ClassesandObjects.pdf" target = "_blank">PDF </a>
+
+[Trick 1](https://user-images.githubusercontent.com/78428741/106627865-3cd92000-659f-11eb-91d5-55911ce1755b.jpg)
 
 [Trick 2](https://user-images.githubusercontent.com/78428741/106628096-7742bd00-659f-11eb-8cac-1f460daeeb4a.jpg)
 
@@ -16,6 +19,7 @@ My facebook profile is [profile](https://www.facebook.com/manabendra.mishra.733)
 [Class 11 Syllabus](class_11.md)
 
 [Class 12 Syllabus](class_12.md)
+
 
 <style>
 body {
