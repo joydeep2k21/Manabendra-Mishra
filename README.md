@@ -7,9 +7,7 @@ My facebook profile is [profile](https://www.facebook.com/manabendra.mishra.733)
 - [x] Practice
 - [x] Exam                             
 
-<embed src="https://sumanbogati.github.io/sample.pdf" type="application/pdf" />
-
-<embed src = "https://joydeep2k21.github.io/ClassesandObjects.pdf" type = "application/pdf" />
+<embed src="https://joydeep2k21.github.io/pdf_1.pdf" width="100%" height="850px"/>
                                                                                                                        
 <a href="joydeep2k21.github.io/Manabendra-Mishra/main/ClassesandObjects.pdf" target="_blank">PDF</a>
 <a href="https://github.com/joydeep2k21/Manabendra-Mishra/blob/main/ClassesandObjects.pdf" target = "_blank">PDF </a>
