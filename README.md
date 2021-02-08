@@ -10,12 +10,9 @@ My facebook profile is [profile](https://www.facebook.com/manabendra.mishra.733)
 
 [Trick 3](https://user-images.githubusercontent.com/78428741/106628169-87f33300-659f-11eb-97f7-122d1dfa7aa0.jpg)
 
-
-[Link 1] (https://github.com/joydeep2k21/Manabendra-Mishra.git) 
-
-https://docs.google.com/document/d/1f625pcjyiD2MguVHP4awDA29FVzue4BnTWf5hkJzEII/edit
-
 [a relative link](class_11.md)
+
+[a relative link](class_12.md)
 
 <style>
 body {
