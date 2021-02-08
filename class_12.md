@@ -23,3 +23,30 @@ Syllabus :
 
 <li>Consistency, inconsistency and number of solutions of system of linear equations by examples, solving system of linear equations in two or three variables (having unique solution) using inverse of a matrix </li>
 </ol>   
+
+***Chapter 3: Continuity and Differentiability***
+<ol>
+<li>Continuity and differentiability, derivative of composite functions, chain rule, derivatives of inverse trigonometric functions, derivative of implicit functions</li>
+
+<li>Concept of exponential and logarithmic functions.</li>
+
+<li>Derivatives of logarithmic and exponential functions</li>
+
+<li>Logarithmic differentiation, derivative of functions expressed in parametric forms. Second order derivatives</li>
+
+<li>Rolle's and Lagrange's Mean Value Theorems (without proof) and their geometric interpretation</li>
+</ol>
+
+***Chapter 4: Applications of Derivatives***
+<ol>
+<li>Applications of derivatives: rate of change of bodies, increasing/decreasing functions, tangents and normal, use of derivatives in approximation, maxima and minima (first derivative test motivated geometrically and second derivative test given as a provable tool) </li>
+
+<li>Simple problems (that illustrate basic principles and understanding of the subject as well as real-life situations)</li>
+</ol>
+
+***Chapter 5: Integrals***
+<ol>
+<li>Integration as inverse process of differentiation</li>
+
+<li>Integration of a variety of functions by substitution, by partial fractions and by parts</li>
+</ol>
