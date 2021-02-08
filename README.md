@@ -12,7 +12,7 @@ My facebook profile is [profile](https://www.facebook.com/manabendra.mishra.733)
 
 [a relative link](class_11.md)
 
-[a relative link](class_12.md)
+[a relative link_2](class_12.md)
 
 <style>
 body {
