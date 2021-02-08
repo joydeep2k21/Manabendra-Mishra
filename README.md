@@ -9,8 +9,8 @@ My facebook profile is [profile](https://www.facebook.com/manabendra.mishra.733)
 
 [PDF 1](pdf_1.md)
                                                                                                                        
-<a href="joydeep2k21.github.io/Manabendra-Mishra/main/ClassesandObjects.pdf" target="_blank">PDF</a>
-<a href="https://github.com/joydeep2k21/Manabendra-Mishra/blob/main/ClassesandObjects.pdf" target = "_blank">PDF </a>
+<a href="joydeep2k21.github.io/Manabendra-Mishra/main/ClassesandObjects.pdf" target="_blank">PDF 3</a>
+<a href="https://github.com/joydeep2k21/Manabendra-Mishra/blob/main/ClassesandObjects.pdf" target = "_blank">PDF 4</a>
 
 [Trick 1](https://user-images.githubusercontent.com/78428741/106627865-3cd92000-659f-11eb-91d5-55911ce1755b.jpg)
 
