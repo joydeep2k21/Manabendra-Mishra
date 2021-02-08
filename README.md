@@ -10,9 +10,9 @@ My facebook profile is [profile](https://www.facebook.com/manabendra.mishra.733)
 
 [Trick 3](https://user-images.githubusercontent.com/78428741/106628169-87f33300-659f-11eb-97f7-122d1dfa7aa0.jpg)
 
-[a relative link](class_11.md)
+[Class 11 Syllabus](class_11.md)
 
-[a relative link_2](class_12.md)
+[Class 12 Syllabus](class_12.md)
 
 <style>
 body {
